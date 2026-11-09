@@ -1,0 +1,150 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 4071 >>
+stream
+BT /F1 20 Tf 48 748 Td (Startup Financial KPI Analysis) Tj ET
+BT /F1 10 Tf 48 725 Td (Dataset: synthetic/demo B2B SaaS data; USD; educational analysis only.) Tj ET
+BT /F1 11 Tf 52 693 Td (Period: 2024-01 to 2025-12) Tj ET
+BT /F1 11 Tf 52 672 Td (Revenue: $1,848 to $87,360 \(+4626.0%\)) Tj ET
+BT /F1 11 Tf 52 651 Td (ARR run rate: $1,048,318) Tj ET
+BT /F1 11 Tf 52 630 Td (Active customers: 37 to 1207) Tj ET
+BT /F1 11 Tf 52 609 Td (Latest blended CAC: $72) Tj ET
+BT /F1 11 Tf 52 588 Td (Estimated LTV / LTV:CAC: $1,577 / 22.04x) Tj ET
+BT /F1 11 Tf 52 567 Td (Latest gross margin: 91.11% \(source field\)) Tj ET
+BT /F1 11 Tf 52 546 Td (Ending cash: $633,930) Tj ET
+BT /F1 11 Tf 52 525 Td (Latest monthly net burn: -$52,065) Tj ET
+BT /F1 11 Tf 52 504 Td (First cash-generative month: 2024-08) Tj ET
+BT /F1 11 Tf 52 483 Td (Median month-12 cohort retention: 53.0%) Tj ET
+BT /F1 13 Tf 48 455 Td (Monthly revenue trend) Tj ET
+0.09 0.31 0.39 rg
+56.00 245 16.25 3.60 re f
+0 0 0 rg
+BT /F1 6 Tf 55.00 233 Td (24-01) Tj ET
+0.09 0.31 0.39 rg
+77.25 245 16.25 7.56 re f
+0 0 0 rg
+BT /F1 6 Tf 76.25 233 Td (24-02) Tj ET
+0.09 0.31 0.39 rg
+98.50 245 16.25 12.86 re f
+0 0 0 rg
+BT /F1 6 Tf 97.50 233 Td (24-03) Tj ET
+0.09 0.31 0.39 rg
+119.75 245 16.25 19.55 re f
+0 0 0 rg
+BT /F1 6 Tf 118.75 233 Td (24-04) Tj ET
+0.09 0.31 0.39 rg
+141.00 245 16.25 21.75 re f
+0 0 0 rg
+BT /F1 6 Tf 140.00 233 Td (24-05) Tj ET
+0.09 0.31 0.39 rg
+162.25 245 16.25 26.38 re f
+0 0 0 rg
+BT /F1 6 Tf 161.25 233 Td (24-06) Tj ET
+0.09 0.31 0.39 rg
+183.50 245 16.25 32.94 re f
+0 0 0 rg
+BT /F1 6 Tf 182.50 233 Td (24-07) Tj ET
+0.09 0.31 0.39 rg
+204.75 245 16.25 41.01 re f
+0 0 0 rg
+BT /F1 6 Tf 203.75 233 Td (24-08) Tj ET
+0.09 0.31 0.39 rg
+226.00 245 16.25 49.22 re f
+0 0 0 rg
+BT /F1 6 Tf 225.00 233 Td (24-09) Tj ET
+0.09 0.31 0.39 rg
+247.25 245 16.25 55.91 re f
+0 0 0 rg
+BT /F1 6 Tf 246.25 233 Td (24-10) Tj ET
+0.09 0.31 0.39 rg
+268.50 245 16.25 64.82 re f
+0 0 0 rg
+BT /F1 6 Tf 267.50 233 Td (24-11) Tj ET
+0.09 0.31 0.39 rg
+289.75 245 16.25 72.56 re f
+0 0 0 rg
+BT /F1 6 Tf 288.75 233 Td (24-12) Tj ET
+0.09 0.31 0.39 rg
+311.00 245 16.25 79.65 re f
+0 0 0 rg
+BT /F1 6 Tf 310.00 233 Td (25-01) Tj ET
+0.09 0.31 0.39 rg
+332.25 245 16.25 87.50 re f
+0 0 0 rg
+BT /F1 6 Tf 331.25 233 Td (25-02) Tj ET
+0.09 0.31 0.39 rg
+353.50 245 16.25 96.62 re f
+0 0 0 rg
+BT /F1 6 Tf 352.50 233 Td (25-03) Tj ET
+0.09 0.31 0.39 rg
+374.75 245 16.25 103.72 re f
+0 0 0 rg
+BT /F1 6 Tf 373.75 233 Td (25-04) Tj ET
+0.09 0.31 0.39 rg
+396.00 245 16.25 114.31 re f
+0 0 0 rg
+BT /F1 6 Tf 395.00 233 Td (25-05) Tj ET
+0.09 0.31 0.39 rg
+417.25 245 16.25 117.78 re f
+0 0 0 rg
+BT /F1 6 Tf 416.25 233 Td (25-06) Tj ET
+0.09 0.31 0.39 rg
+438.50 245 16.25 124.66 re f
+0 0 0 rg
+BT /F1 6 Tf 437.50 233 Td (25-07) Tj ET
+0.09 0.31 0.39 rg
+459.75 245 16.25 133.16 re f
+0 0 0 rg
+BT /F1 6 Tf 458.75 233 Td (25-08) Tj ET
+0.09 0.31 0.39 rg
+481.00 245 16.25 141.46 re f
+0 0 0 rg
+BT /F1 6 Tf 480.00 233 Td (25-09) Tj ET
+0.09 0.31 0.39 rg
+502.25 245 16.25 150.27 re f
+0 0 0 rg
+BT /F1 6 Tf 501.25 233 Td (25-10) Tj ET
+0.09 0.31 0.39 rg
+523.50 245 16.25 159.33 re f
+0 0 0 rg
+BT /F1 6 Tf 522.50 233 Td (25-11) Tj ET
+0.09 0.31 0.39 rg
+544.75 245 16.25 170.00 re f
+0 0 0 rg
+BT /F1 6 Tf 543.75 233 Td (25-12) Tj ET
+BT /F1 12 Tf 48 192 Td (Acquisition channel snapshot) Tj ET
+BT /F1 9 Tf 52 174 Td (Channel | customers | average estimated CAC | cumulative recognized revenue) Tj ET
+BT /F1 9 Tf 52 158 Td (Organic | 599 | $27 | $285,636) Tj ET
+BT /F1 9 Tf 52 144 Td (Paid Ads | 734 | $122 | $375,429) Tj ET
+BT /F1 9 Tf 52 130 Td (Partnership | 188 | $68 | $98,802) Tj ET
+BT /F1 9 Tf 52 116 Td (Referral | 396 | $38 | $209,638) Tj ET
+BT /F1 8 Tf 48 55 Td (Definitions and limitations: blended CAC = monthly marketing spend / new customers; channel CAC is customer-level estimated cost.) Tj ET
+BT /F1 8 Tf 48 42 Td (Net burn is reported as operating expenses minus revenue; negative values indicate cash generation in this dataset.) Tj ET
+BT /F1 8 Tf 48 29 Td (Gross margin and retention are reported from source sheets; synthetic data is not actual company financial information.) Tj ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+4434
+%%EOF
